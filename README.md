@@ -63,7 +63,9 @@ I’m not perfect at coding — but I improve every day, and that’s what matte
 - Improving my C# , SQL and Javascript skills  
 - Building personal projects  
 - Expanding my GitHub presence  
-- Learning more about backend development  
+- Learning more about backend development
+- Learning new content on Microsoft Learn
+- Completing certificates   
 
 ---
 
