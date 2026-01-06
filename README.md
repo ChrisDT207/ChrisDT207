@@ -70,4 +70,4 @@ I’m not perfect at coding — but I improve every day, and that’s what matte
 ---
 
 ## Projects 
-[C# Projects](ChrisDT207csharp-projects)
+[C# Projects](https://github.com/ChrisDT207?tab=repositories&q=topic:csharp-projects)
