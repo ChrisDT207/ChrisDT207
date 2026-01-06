@@ -5,7 +5,7 @@
   <br>
   💻 Passionate about Software Development, C#, Web Tech, Cloud, Networking & Cybersecurity
   <br>
-  🚀 Always learning, building, and improving
+      I’m not perfect at coding — but I improve every day, and that’s what matters to me.
 </p>
 
 ---
@@ -42,11 +42,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-##  Fun Fact  
-I’m not perfect at coding — but I improve every day, and that’s what matters to me.
 
 ---
 
