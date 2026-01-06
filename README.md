@@ -45,15 +45,6 @@
 
 ---
 
-##  GitHub Stats (Coming soon)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChrisDT207&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisDT207&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ##  Fun Fact  
 I’m not perfect at coding — but I improve every day, and that’s what matters to me.
 
