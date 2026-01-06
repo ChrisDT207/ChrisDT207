@@ -61,4 +61,4 @@ I’m not perfect at coding — but I improve every day, and that’s what matte
 ---
 
 ## Projects 
-[C# Projects]([https://github.com/ChrisDT207?tab=repositories&q=topic:csharp-projects](https://github.com/ChrisDT207/csharp-projects/tree/main))
+[C# Projects](https://github.com/ChrisDT207/csharp-projects.git)
