@@ -50,7 +50,7 @@
 ![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ChrisDT207&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisDT207&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChrisDT207&layout=compact&theme=radical)
 
 ---
 
