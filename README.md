@@ -60,5 +60,4 @@
 
 ---
 
-## Projects 
-[C# Projects](https://github.com/ChrisDT207/csharp-projects.git)
+[Projects](https://github.com/ChrisDT207/Projects.git) 
