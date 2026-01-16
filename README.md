@@ -50,11 +50,11 @@
 ---
 
 ##  What I'm Currently Working On
-- Improving my C# , SQL and Javascript skills  
+- Improving my C# , SQL , HTML & CSS and Javascript skills  
 - Building personal projects  
 - Expanding my GitHub presence  
 - Learning more about backend development
-- Learning new content on Microsoft Learn
+- Learning new content on Microsoft Learn & Udemy
 - Completing certificates   
 
 ---
