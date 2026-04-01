@@ -5,7 +5,7 @@
   <br>
   💻 Passionate about Software Development, C#, Web, Cloud, Networking & Cybersecurity
   <br>
-      I’m not perfect at coding — but I improve every day, and that’s what matters to me.
+      I’m not perfect at coding... but I improve every day, and that’s what matters to me.
 </p>
 
 ---
