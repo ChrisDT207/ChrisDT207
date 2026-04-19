@@ -56,7 +56,7 @@
 ---
 
 ##  What I'm Currently Working On
-- Improving my C# , SQL , HTML & CSS and Javascript skills  
+- Improving my programming skills  
 - Building personal projects  
 - Expanding my GitHub presence  
 - Learning more about backend development
