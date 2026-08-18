@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Christiaan 👋</h1>
+(https://www.gitskins.com/api/section/wordmark?username=chrisdt207&theme=aurora&style=terminal&label=Christiaan+Du+Toit&mode=dark)
 
 <p align="center">
   🎓 Honours Degree of Computing student @ Belgium Campus iTversity  
